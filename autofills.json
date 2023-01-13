@@ -1,0 +1,17 @@
+{
+
+    "Maxwell":                       ["FIRST NAME", "FIRST"],
+    "John":                          ["MIDDLE NAME", "MIDDLE"],
+    "Middendorf":                    ["LAST NAME", "LAST"],
+    "6567 Patty's Place":            ["ADDRESS LINE 1", "ADDRESS LINE", "ADDRESS"],
+    "Cincinnati":                    ["CITY"],
+    "Ohio":                          ["STATE"],
+    "United States of America":      ["COUNTRY"],
+    "45248":                         ["POSTAL CODE", "ZIP CODE", "ZIP"],
+    "Company Website":               ["HOW DID YOU HEAR ABOUT US?"],
+    "Nationwide.com":                ["COMPANY WEBSITE"],
+    "5139267841":                    ["PHONE NUMBER", "PHONE"],
+    "Personal Cellular":             ["PHONE DEVICE TYPE"],
+    "NO":                            ["Have you ever worked for Nationwide or one of its affiliate companies as an associate, contractor, intern or temporary?  Visit Nationwide.com/https://www.nationwide.com/personal/about-us/affiliated-companies for a list of affiliated companies.*"]
+
+}

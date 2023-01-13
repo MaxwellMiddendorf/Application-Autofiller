@@ -1,0 +1,22 @@
+{
+    "name": "Application Autocomple Extension",
+    "description": "This extension is intended to autocomplete job appilcations.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "options_page": "options.html",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+
+    "web_accessible_resources": [
+        {
+          "resources": [ "autofills.json", "jquery-3.6.1.min.js"],
+          "matches": [ "http://*/*", "<all_urls>" ],
+          "use_dynamic_url": true
+        }
+    ]
+}
